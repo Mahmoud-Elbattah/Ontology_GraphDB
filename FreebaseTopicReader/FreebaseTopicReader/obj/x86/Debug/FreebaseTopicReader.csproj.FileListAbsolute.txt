@@ -1,0 +1,10 @@
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\FreebaseTopicReader\FreebaseTopicReader\bin\Debug\FreebaseTopicReader.exe
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\FreebaseTopicReader\FreebaseTopicReader\bin\Debug\FreebaseTopicReader.pdb
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\FreebaseTopicReader\FreebaseTopicReader\obj\x86\Debug\FreebaseTopicReader.exe
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\FreebaseTopicReader\FreebaseTopicReader\obj\x86\Debug\FreebaseTopicReader.pdb
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\FreebaseTopicReader\FreebaseTopicReader\bin\Debug\DBInterface.dll
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\FreebaseTopicReader\FreebaseTopicReader\obj\x86\Debug\FreebaseTopicReader.csprojResolveAssemblyReference.cache
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Large-Scale Ontology Storage Using Graph Database\Programs\FreebaseTopicReader\FreebaseTopicReader\obj\x86\Debug\FreebaseTopicReader.exe
+C:\Users\13232238.IT2_DOMAIN.003\Dropbox\Freebase\4.My Papers\Large-Scale Ontology Storage Using Graph Database\Programs\FreebaseTopicReader\FreebaseTopicReader\obj\x86\Debug\FreebaseTopicReader.pdb
+C:\Users\dxdiag\Dropbox\Freebase\4.My Papers\4.Large-Scale Ontology Storage Using Graph Database\Programs\FreebaseTopicReader\FreebaseTopicReader\obj\x86\Debug\FreebaseTopicReader.exe
+C:\Users\dxdiag\Dropbox\Freebase\4.My Papers\4.Large-Scale Ontology Storage Using Graph Database\Programs\FreebaseTopicReader\FreebaseTopicReader\obj\x86\Debug\FreebaseTopicReader.pdb
